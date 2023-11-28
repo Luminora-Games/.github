@@ -1,5 +1,5 @@
 ## Luminora Games
-Where a small indie game dev studio!!!
+We are a small indie game dev studio!!!
 
 <!--
 
